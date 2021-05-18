@@ -1,0 +1,3 @@
+print('hello')
+print('i am learning git')
+print('git is boring just commands to learn and understand')
